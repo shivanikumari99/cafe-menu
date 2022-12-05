@@ -1,0 +1,43 @@
+/* file: styles.css */
+body {
+    background-image: url(coffee-beens.jpeg);
+
+    }
+    
+    h1, h2, p {
+    text-align: center;
+    font-family: sans-serif;
+    }
+    hr{
+        height: 8px;
+        margin-left: 40px;
+        margin-right: 40px;
+       
+    }
+    
+    .menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    .item p {
+    display: inline-block;
+    }
+    
+    .flavor {
+    text-align: left;
+    width: 65%;
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 31px;
+    }
+    
+    .price {
+    text-align: right;
+    width: 25%;
+    font-family: sans-serif;
+    font-weight: bold;
+    }
